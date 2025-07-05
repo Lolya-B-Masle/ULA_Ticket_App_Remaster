@@ -1,3 +1,34 @@
 <resources>
-    <string name="app_name">UlaApp</string>
+    <string name="app_name">Юла билет</string>
+    <string name="app_version">3.0</string>
+
+    <string name="main_page_header">Выберите тип билета</string>
+    <string name="Ticket_type_1">Билет в кино</string>
+    <string name="Ticket_type_2">Билет на концерт</string>
+
+    <string name="History_page_header">История</string>
+    <string name="History_list_text">Здесь будет отображаться история проданных билетов</string>
+
+    <string name="Concert_page_header">Создание билет на концерт</string>
+    <string name="Concert_name_title">Название</string>
+
+    <string name="Settings_page_header">Настройки</string>
+    <string name="Settings_option_text_1">Стоимость билета</string>
+    <string name="Settings_option_text_2">Открывать WhatsApp</string>
+
+    <string name="Movie_page_header">Создание билета в кино</string>
+    <string name="Movie_date_title">Дата:</string>
+    <string name="Movie_movie_title">Фильм:</string>
+    <string name="Movie_time_title">Сеанс:</string>
+    <string name="Movie_row_title">Ряд:</string>
+    <string name="Movie_seat_title">Место:</string>
+    <string name="Movie_hall_title">Зал:</string>
+
+    <string name="Save_btn_text">Сохранить</string>
+    <string name="Clear_btn_text">Очистить</string>
+    <string name="Done_btn_text">Готово</string>
+    <string name="History_btn_text">История</string>
+    <string name="Report_btn_text">Отчет</string>
+
+    <string name="Update_hint">Здесь можно узнать об обновлении!</string>
 </resources>
