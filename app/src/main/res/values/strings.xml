@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Юла билет</string>
-    <string name="app_version">3.0</string>
+    <string name="app_version">Версия 3.0</string>
 
     <string name="main_page_header">Выберите тип билета</string>
     <string name="Ticket_type_1">Билет в кино</string>
