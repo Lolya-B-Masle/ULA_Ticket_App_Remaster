@@ -15,21 +15,27 @@
         android:theme="@style/Theme.UlaApp">
         <activity
             android:name=".InfoActivity"
+            android:screenOrientation="sensorPortrait"
             android:exported="false" />
         <activity
             android:name=".HistoryActivity"
+            android:screenOrientation="sensorPortrait"
             android:exported="false" />
         <activity
             android:name=".SettingsActivity"
+            android:screenOrientation="sensorPortrait"
             android:exported="false" />
         <activity
             android:name=".MovieActivity"
+            android:screenOrientation="sensorPortrait"
             android:exported="false" />
         <activity
             android:name=".ConcertActivity"
+            android:screenOrientation="sensorPortrait"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
+            android:screenOrientation="sensorPortrait"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
